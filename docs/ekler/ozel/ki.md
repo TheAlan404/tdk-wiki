@@ -1,6 +1,7 @@
 # Ki Eki
 
 Ki ekinin 3 türü vardır:
+
 - [Bağlaç](#bağlaç--ki)
 - [Yapım eki](#yapım-eki--ki)
 - [Ilgi Zamiri](#ilgi-zamiri--ki)
@@ -8,6 +9,7 @@ Ki ekinin 3 türü vardır:
 ## Bağlaç -ki
 
 Bağlaç olan **ki** ayrı yazılır
+
 - bilmem ki
 - demek ki
 - kaldı ki
@@ -16,6 +18,7 @@ Bağlaç olan **ki** ayrı yazılır
     - Türk dili, dillerin en zenginlerindendir; yeter ki bu dil, şuurla işlen­sin. (Atatürk)
 
 Bazı kelimeler **kalıplaştığından** bitişik yazılır:
+
 - Belki
 - Halbuki
 - Mademki
