@@ -6,7 +6,6 @@ Bir sözcüğün sıfat olabilmesi için ismin önüne gelerek onu nitelemesi ve
 
 !!! quote ""
     - Arkadaşım bana **güzel** bir kolye hediye etti.
-
     Bu cümledeki "kolye" kelimesini "güzel" kelimesi nitelemektedir.
 
 Sıfatlar iki ana gruba ayrılır:
@@ -30,7 +29,6 @@ Sıfatlar iki ana gruba ayrılır:
 
    !!! note "Not"
        Bazen nadir de olsa çekim eki alabilir.
-
        - **Güzelim** evimiz ne hale gelmiş.
        - **Böylesi** duygularla daha önce tanışmamıştım.
 
@@ -48,14 +46,12 @@ Niteleme sıfatları isme sorulan **Nasıl?** sorusunun cevabıdır.
 
 !!! note "Not"
     Küçültme, ünvan ve pekiştirme sıfatları da niteleme sıfatıdır.
-
     - Kerem Bey, Doktor Yusuf, Osman Gazi (ünvan sf.)
     - Küçücük el, büyükçe ev, mavimsi kazak (küçültme sf.)
     - Rengarenk çiçek, kapkara bulut (pekiştirme sf.)
 
 !!! note "Not"
     Niteleme sözcükleri isim yerine [eylem]() veya [eylemsiyi]() nitelediklerinde sıfat değil, [zarf]() olurlar.
-
     - Doğru söze kim, ne diyebilir ki?
     - Eğri oturalım, doğru konuşalım.
     - Her zaman doğru konuşmak gerekir.
@@ -167,5 +163,7 @@ Bir kesiri belirten sıfatlar.
     - **Bir** gün başımı alıp gideceğim. (belgisiz sf.)
     - Orada sadece **bir** gece kaldım. (sayı sf.)
     - Oğlum ile onun kızı **bir** yaştaymış. (niteleme sf.)
+
+### Soru Sıfatları
 
 
